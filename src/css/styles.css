@@ -41,12 +41,17 @@ nav ul li a{
 	font-size: 1.2em;
 }
 
+legend{
+	font-size: 1.2em;
+	margin-bottom: 0.5em;
+}
+
 main .main {
 	padding-top: 4em;
 	padding-bottom: 1em;
 	background-image: url(../images/header.jpg);
 	background-size: cover;
-	height: 90vh;
+	height: 100vh;
 }
 
 .main h2{
